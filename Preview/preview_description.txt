@@ -1,0 +1,1 @@
+Forces a cooldown between wild mana jumps to make fighting them less annoying.
